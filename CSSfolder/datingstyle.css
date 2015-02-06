@@ -1,0 +1,22 @@
+body{
+	background-image: url("datingbackground.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Verdana;
+}
+h1{
+	color: red;
+	font-size: 3em;
+	font-family: "Impact", Times, serif
+}
+h2{
+	font-size: 2em;
+	color: green;
+	font-family: "Impact", Times, serif
+}
+label{
+	font-size: 1em;
+
+	font-weight: bold;
+	text-decoration: underline;
+}
